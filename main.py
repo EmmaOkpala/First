@@ -1,6 +1,9 @@
 import random
 import matplot.pyplot as plt
 import os
+import datetime as datetime
+import numpy as np
+
 
 
 # List of fun facts
