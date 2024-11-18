@@ -1,4 +1,7 @@
 import random
+import matplot.pyplot as plt
+import os
+
 
 # List of fun facts
 fun_facts = [
